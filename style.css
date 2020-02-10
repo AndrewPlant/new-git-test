@@ -1,0 +1,16 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+.span6 {
+	max-width:100%;
+	display:flex;
+	text-align: center;
+	padding:30px;
+
+}
