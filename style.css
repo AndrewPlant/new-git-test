@@ -8,9 +8,16 @@ h1 {
 }
 
 .span6 {
-	max-width:100%;
-	display:flex;
+	max-width:48%;
+	float: left;
+;
 	text-align: center;
 	padding:30px;
 
+}
+
+.tab-head {
+	max-width:48%;
+	text-align: center;
+	padding:30px;
 }
